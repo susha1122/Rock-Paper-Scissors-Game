@@ -10,7 +10,7 @@ A simple and interactive **Rock Paper Scissors** game built using **HTML, CSS, a
   <img src="./images/preview.png" alt="Rock Paper Scissors Preview" width="400" />
 </p>
 
-> *Preview image size is kept moderate for a clean and appealing look.*
+> *Preview image*
 
 ---
 
